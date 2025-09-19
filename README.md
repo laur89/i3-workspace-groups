@@ -78,7 +78,7 @@ recommended to install one of the following tools to further improve speed:
 ### i3
 
 In order to use these tools effectively, commands need to be bound to
-keybindings. For example, my i3 config contains the following exerts:
+keybindings. For example, my i3 config contains the following excerpt:
 
 <!-- markdownlint-disable fenced-code-language -->
 
