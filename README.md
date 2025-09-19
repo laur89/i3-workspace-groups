@@ -304,6 +304,6 @@ done < <(polybar --list-monitors | cut -d':' -f1)
 #### 2. Run a background script to update polybar's on i3 events
 
 Run the
-[i3-groups-polybar-module-updater](./bin/i3-groups-polybar-module-updater)
+[polybar_module_updater.py](./i3wsgroups/polybar_module_updater.py)
 script. This script is responsible for calling the hook to update polybar
 whenever a relevant i3 window event occurs.
