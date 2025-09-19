@@ -51,7 +51,7 @@ their own "namespace", and switch between them.
 The scripts can be installed using pip:
 
 ```shell
-python3 -m pip install i3-workspace-groups
+pipx install i3-workspace-groups
 ```
 
 Then you should be able to run the command line tool
